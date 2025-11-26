@@ -9,7 +9,7 @@ An SD2PSX based memory card running the [SD2PSXTD firmare](https://sd2psxtd.gith
 * Done! Place the SD card back into your SD2PSX, and save files should now automacially be saved to the correct VMC when starting a game.
 
 ## Standard VS Legacy:
-`VMC_Groups.zip` is avalible in two versions: Standard and Legacy. The standard version provides human readable names for grouped VMCs, and is reccomenced for new SD2PSX users, as well as those using outdated backup loaders or physical discs. 
+`VMC_Groups.zip` is avalible in two versions: Standard and Legacy. The standard version provides human readable names for grouped VMCs, and is reccomended for new SD2PSX users, as well as those using outdated backup loaders or physical discs. 
 
 The Legacy version is inteded for those who have previosuly used a modern backup loader, such as the XEB+ neutrino Launcher, OSDXMB, and recent beta version of OPL, in conjunction with an SD2PSX. These loaders are capable of handling VMC groupung internally, and passing that information to an SD2PSX via a custom Group ID. The Legacy version of `VMC_Groups.zip` retains this group ID naming scheme, so that any previosuly created group VMC files will continue to be used.
 
